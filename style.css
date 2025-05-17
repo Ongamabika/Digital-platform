@@ -1,0 +1,30 @@
+h1{
+    color:darkgreen;
+    font-family: sans-serif;
+}
+p{
+    color:coral;
+    font-family:cursive;
+}
+h3{
+    font-family:cursive;
+}
+ul{
+    list-style-type:circle
+}
+ol{
+    list-style-type:lower-roman
+}
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+#menu-bar a{
+      font-family     : Helvetica, sans-serif;
+      text-decoration : none;
+      background-color: aquamarine;
+      padding         : 5px;
+}
+#men-bar a:hover{
+      background-color: aqua;
+      color           : #ffffff;
+}
